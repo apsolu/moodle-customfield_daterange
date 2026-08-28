@@ -34,6 +34,6 @@ $string['mindateaftermax'] = 'La valeur minimale ne peut pas être plus grande q
 $string['multiple_value_format'] = '{$a->start} au {$a->end}';
 $string['pluginname'] = 'Plage de dates';
 $string['privacy:metadata'] = 'Le plugin champ « Plage de dates » n’enregistre aucune donnée personnelle.';
-$string['single_value_format'] = '%a %d %b';
+$string['single_value_format'] = '%a %d %b %Y';
 $string['start_date'] = 'Date de début';
 $string['the_start_date_must_be_prior_to_the_end_date'] = 'La date de début doit être antérieure à la date de fin.';
